@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Taewan
 
-<!--
-**tyoon10/tyoon10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MBA/MS (AI & ML) at Columbia University. Living in New York City. Building at the intersection of AI systems, FinTech, and enterprise strategy
 
-Here are some ideas to get you started:
+## What I'm Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Claude Ambassador** — Built and scaled Claude's NYC builder community from 0 to 1,000+ members
+- **AI Club** — Leading Columbia's AI Club and the AI Startup Challenge, a multi-university startup competition across Columbia, NYU, and Cornell
+- **BRAIN NYC** — Founded a practitioner network tackling hard business challenges with frontier AI ([brainyc.org](https://brainyc.org))
+- **Hackathon Mentor & Judge** — Hosted some of the largest AI hackathons in NYC with Anthropic, Google, and Mistral AI
+- **AI Research in Quantitative Finance** — Speaker at the MathWorks Finance Conference 2025
+
+## Background
+
+Enterprise AI product manager and strategist. Shipped agentic workflows as a Manus AI Fellow. Co-founded an AI-native FinTech startup (acquired). Mentor at CFA Society New York
+
+**Previously:** Finance & Operations Research at Yonsei University. Built data-intensive products across financial services in Korea, Taiwan, and the US
+
+## Links
+
+- [twyoon.com](https://twyoon.com)
+- [LinkedIn](https://linkedin.com/in/taewan-yoon)
