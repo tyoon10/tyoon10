@@ -1,6 +1,7 @@
 # Hi, I'm Taewan
 
 MBA/MS (AI & ML) at Columbia University. Living in New York City. Building at the intersection of AI systems, FinTech, and enterprise strategy
+
 I built my first enterprise AI solution in 2017, utilizing KoNLPy for morphological tokenization and a TF-IDF vectorizer for retrieval-based intent engine
 
 ## What I'm Working On
