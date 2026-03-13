@@ -1,6 +1,6 @@
 # Hi, I'm Taewan
 
-MBA/MS (AI & ML) at Columbia University. Living in New York City. Building at the intersection of AI systems, FinTech, and enterprise strategy
+MBA/MS (AI & ML) at Columbia University. Living in New York City. Building at the intersection of AI systems, FinTech, and enterprise AI strategy
 
 I built my first enterprise AI solution in 2017, utilizing KoNLPy for morphological tokenization and a TF-IDF vectorizer for retrieval-based intent engine
 
@@ -14,7 +14,7 @@ I built my first enterprise AI solution in 2017, utilizing KoNLPy for morphologi
 
 ## Background
 
-Enterprise AI product builder. Shipped agentic workflows as a Manus AI Fellow. Co-founded an AI-native FinTech startup (acquired). Mentor at CFA Society New York
+Enterprise AI product builder. Co-founded an AI-native FinTech startup (acquired). Manus AI Fellow. Mentor at CFA Society New York
 
 **Previously:** Finance & Operations Research at Yonsei University. Built data-intensive FinTech products across Korea, Taiwan, and the US
 
