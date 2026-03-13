@@ -14,9 +14,9 @@ I built my first enterprise AI solution in 2017, utilizing KoNLPy for morphologi
 
 ## Background
 
-Enterprise AI product manager and strategist. Shipped agentic workflows as a Manus AI Fellow. Co-founded an AI-native FinTech startup (acquired). Mentor at CFA Society New York
+Enterprise AI product builder. Shipped agentic workflows as a Manus AI Fellow. Co-founded an AI-native FinTech startup (acquired). Mentor at CFA Society New York
 
-**Previously:** Finance & Operations Research at Yonsei University. Built data-intensive products across financial services in Korea, Taiwan, and the US
+**Previously:** Finance & Operations Research at Yonsei University. Built data-intensive FinTech products across Korea, Taiwan, and the US
 
 ## Links
 
