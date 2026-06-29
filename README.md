@@ -7,8 +7,8 @@ I built my first enterprise AI solution in 2017, utilizing KoNLPy for morphologi
 ## What I'm Working On
 
 - **Claude Evangelist** — Built and scaled Claude's NYC builder community from 0 to 1,000+ members
+- **claude-ensemble** — An open-source Claude Code toolkit for the most challenging tasks
 - **AI Club** — Led Columbia's largest AI Club and the AI Startup Challenge, a multi-university startup competition across Columbia, NYU, and Cornell
-- **BRAIN NYC** — Founded a practitioner network tackling hard business challenges with frontier AI
 - **Hackathon Mentor & Judge** — Hosted some of the largest AI hackathons in NYC with Anthropic, Google, and Mistral AI
 - **AI Research in Quantitative Finance** — Speaker at the MathWorks Finance Conference 2025
 
